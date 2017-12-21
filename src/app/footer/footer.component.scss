@@ -1,0 +1,16 @@
+@import '~sass/variables';
+
+footer {
+  padding: 50px 0;
+  color: $color-secondary;
+  bottom:0;
+
+  .copyright {
+    margin-bottom: 0px;
+    padding-bottom: 0;
+  }
+
+  .row{
+    padding-bottom: 2em;
+  }
+}
